@@ -1,0 +1,25 @@
+
+body{
+  background-color:black;
+  text-emphasis-color: white;
+  border-style:dotted;
+  border-color: wheat;
+}
+h2 {
+color: wheat;
+}
+p{
+color: wheat;
+}
+table{
+color: wheat;
+}
+ul{
+color: wheat;
+}
+a{
+color: wheat;
+}
+form{
+    color: wheat;
+}
